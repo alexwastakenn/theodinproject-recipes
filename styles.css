@@ -1,0 +1,46 @@
+.centered {
+  text-align: center;
+}
+
+.recipes {
+  font-size: larger;
+}
+
+.ingredients {
+  position: absolute;
+  top: 5%;
+  text-align: left;
+  font-size: larger;
+}
+
+.instructions {
+  position: absolute;
+  top: 40%;
+  text-align: left;
+  font-size: larger;
+  width: 30%;
+}
+
+.info {
+  position: absolute;
+  text-align: left;
+  font-size: larger;
+  top: 40%;
+  right: 22%;
+}
+
+.reviews {
+  position: absolute;
+  text-align: left;
+  font-size: larger;
+  right: 10%;
+  top: 5%;
+  width: 19%;
+}
+
+.back-arrow {
+  position: absolute;
+  top: 0%;
+  left: 1%;
+  font-size: larger;
+}
