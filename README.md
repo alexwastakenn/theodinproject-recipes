@@ -1,6 +1,4 @@
-# theodinproject-recipes
-
-My journey starts here.
+# My journey starts here.
 
 I started this project on 3rd September 2022 with minimal HTML/CSS knowledge,
 after reading up about some basic tags and styling properties I decided to
