@@ -45,7 +45,12 @@
   font-size: larger;
 }
 
-.resized-image {
-  max-height: 596px;
-  max-width: 596px;
+.recipe-image {
+  height: 596px;
+  width: 596px;
+}
+
+.main-page-image {
+  height: 589px;
+  width: 960px;
 }
