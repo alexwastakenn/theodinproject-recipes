@@ -26,7 +26,7 @@
   text-align: left;
   font-size: larger;
   top: 40%;
-  right: 22%;
+  right: 430px;
 }
 
 .reviews {
@@ -43,4 +43,9 @@
   top: 0%;
   left: 1%;
   font-size: larger;
+}
+
+.resized-image {
+  max-height: 596px;
+  max-width: 596px;
 }
